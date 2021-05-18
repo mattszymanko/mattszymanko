@@ -10,9 +10,11 @@ I post all of my projects here, of course I am not working on all of them anymor
 
 
 If you want to contact me elsewhere, perhaps just find me on a different platform, I recommend that you look-up here:
-
 <a href="https://steamcommunity.com/profiles/76561198215589227/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-mattszymanko-black" /></a>
 <a href="https://discordapp.com/users/141347718088884224" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-mattszymanko%23-blue" /></a>
+
+
+<a href="https://steamcommunity.com/profiles/76561198215589227/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="50" height="50"/></a>
 
 
 That would be it. Thanks for stopping by! 😉
