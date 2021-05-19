@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattszymanko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattszymanko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **Hey there! 😊 Welcome to my GitHub profile!**
 
 I'm Matt, an IT student and a developer. I'm currently studying Information Technology at [IUBH](https://www.iubh-international.com/) in Berlin. I associate my future with the IT sector, hoping to become a full stack developer one day.
