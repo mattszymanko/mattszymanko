@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattszymanko&show_icons=true&theme=tokyonight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattszymanko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattszymanko&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattszymanko&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Hey there! 😊 Welcome to my GitHub profile!**
