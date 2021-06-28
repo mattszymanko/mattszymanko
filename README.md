@@ -13,7 +13,8 @@ I post most of my projects here, of course I'm not working on all of them anymor
 
 
 If you want to contact me elsewhere, perhaps just find me on a different platform, I recommend that you look-up here:
-<br>Discord: [mattszymanko#0556](https://discordapp.com/users/141347718088884224)  
+<br>Discord: [mattszymanko#0556](https://discordapp.com/users/141347718088884224)
+<br>E-mail: [Soon](mailto:soon@soon.com)  
 <a href="https://steamcommunity.com/profiles/76561198215589227/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" width="50" height="50"/></a>
 
 
